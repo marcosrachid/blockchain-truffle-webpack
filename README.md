@@ -6,6 +6,7 @@ web application test connecting to test-rpc via web3 using truffle webpack
 ```bash
 npm i -g ethereumjs-testrpc
 npm i -g truffle
+npm i -g yarn
 yarn
 truffle compile
 ```
